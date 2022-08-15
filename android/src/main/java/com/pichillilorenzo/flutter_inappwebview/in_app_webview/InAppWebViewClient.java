@@ -1,4 +1,4 @@
-@package com.pichillilorenzo.flutter_inappwebview.in_app_webview;
+package com.pichillilorenzo.flutter_inappwebview.in_app_webview;
 
 import android.annotation.TargetApi;
 import android.graphics.Bitmap;
